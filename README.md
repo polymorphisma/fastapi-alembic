@@ -1,6 +1,6 @@
 # Database Migrations with Alembic and FastAPI: A Comprehensive Guide Using Poetry
 
-**By Polymorphisma**
+**By polymorphisma**
 
 In web development, maintaining a growing and consistent database schema is essential. As applications expand, new features are added, performance is optimized, and errors are addressed, leading to frequent changes in the database schema. Although there are many tools available for database migrations, Alembic is one of the most popular and useful options for handling these modifications.
 
